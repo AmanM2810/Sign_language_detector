@@ -1,0 +1,8 @@
+numpy==1.23.5
+librosa==0.10.0  # for audio feature extraction
+tensorflow==2.13.0  # or PyTorch for model implementation
+scikit-learn==1.3.0
+soundfile==0.12.1  # for reading and writing sound files
+matplotlib==3.7.2  # for visualizations
+flask==2.3.3  # for building a web interface
+gunicorn==20.1.0  # for running the web app in production
